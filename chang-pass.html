@@ -1,0 +1,31 @@
+<script>
+
+    const user = 'admin';
+    let pass = 'admin';
+
+    let userName = prompt("Enter username :");
+    let password = prompt("Enter Password :");
+
+    if(user==userName){
+        if(pass==password){
+            let check = confirm("You wan't to change password !");
+            if(check){
+                let newpassword = prompt("Enter new password : ");
+                let confirmpasword = prompt("Enter confirm password : ");
+                if(newpassword == confirmpasword){
+                    pass = newpassword;
+                }else{
+                    console.log("new password and confirmpasword not match ");
+                }
+            }
+        }else{
+            console.log("Wrong Password");
+        }
+    }else{
+        console.log("User not exit");   
+    }
+
+    console.log(user,pass);
+
+
+</script>
