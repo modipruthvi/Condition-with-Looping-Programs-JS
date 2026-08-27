@@ -36,6 +36,22 @@
 #day.js ss is here:-
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e6e5b83d-32ac-48c6-81da-b5b4ce22f17b" />
 
+#prog1.js ss is here:-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/57e35891-f9b4-483f-8ca6-591494be27fc" />
+
+#prog2.js ss is here:-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9f7324dd-5a54-419f-98ad-9dfd569d4a0b" />
+
+#prog3.js ss is here:-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/68fb4e0c-75a3-430b-8805-45c4af26acb2" />
+
+#prog4.js is here:-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f66aee79-7bb3-4c41-942b-6e5da3b7ce88" />
+
+#prog5.js is here:-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0601f630-2def-478a-aa93-2d13d3fccf57" />
+
+
 #intrest.js ss is here:-
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9447729a-c23b-40e4-9f58-d0d6cf2160a8" />
 
